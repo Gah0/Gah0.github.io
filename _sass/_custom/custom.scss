@@ -21,3 +21,13 @@
     font-size: 14px;
     color: #434343;
 }
+
+
+//自定义背景图片
+body{
+    background:url(https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1563801665&di=fbaa547303f647da7080808f44f13fb5&src=http://i0.hdslb.com/bfs/article/e798f91fc293ca4b4d40cc4dc9b74bfce486f37b.jpg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+}
