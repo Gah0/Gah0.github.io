@@ -231,9 +231,9 @@ social_icons:
   Weibo: weibo
 
 
-Sidebar Avatar
-in directory: source/uploads/
-avatar: /uploads/avatar.png
+#Sidebar Avatar
+#in directory: source/uploads/
+#avatar: /uploads/avatar.png
 
 
 # Table Of Contents in the Sidebar
