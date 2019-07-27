@@ -3,4 +3,4 @@ layout: page
 type: about
 ---
 
-Building...
+生活变得越来越好啦！
