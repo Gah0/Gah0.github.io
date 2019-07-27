@@ -739,3 +739,9 @@ images: assets/images
 
 # Theme version
 version: 5.1.1
+
+
+#gitment
+comment_gitment_repo: gah0.github.io
+comment_gitment_clientId: 124320776134de320669
+comment_gitment_clientSecret: dfc18d5dc5f5a9f60fbfcd32fda6a7fb7f1cbfc3
