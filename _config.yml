@@ -231,7 +231,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  E-mail: e-mail
+  E-mail: email
   Twitter: twitter
 
 # Sidebar Avatar
@@ -364,8 +364,8 @@ highlight_theme: night bright
 
 # MathJax Support
 mathjax:
-  enable: false
-  per_page: false
+  enable: true
+  per_page: true
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
@@ -618,7 +618,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
