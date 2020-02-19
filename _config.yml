@@ -231,7 +231,7 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  E-mail: e-mail
+  E-mail: email
   Twitter: twitter
 
 # Sidebar Avatar
@@ -618,7 +618,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true
