@@ -526,19 +526,19 @@ rating:
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
   enable: true
-  app_id: 8QnlJmvjzhA2OcCgeWVS0tjx-9Nh9j0Va
-  app_key: YTNUopCqVqCfornYVVYj4Ekx
+  app_id: R5OK10xkSoGTlm884Fba7SMi-gzGzoHsz
+  app_key: TCfjXmWCwcL058968VI0QNwO
 
 # Show number of visitors to each article.
 # You can visit https://valine.js.org/ get AppID and AppKey.
 valine_comment:
   enable: true
 # app_id
-  leancloud_appid: mAAL4cjsBQcOSWcjJYhXND7f-9Nh9j0Va
+  leancloud_appid: R5OK10xkSoGTlm884Fba7SMi-gzGzoHsz
 # app_key
-  leancloud_appkey: qNjs1LvAgQHa6nJck4UdYhcj
+  leancloud_appkey: TCfjXmWCwcL058968VI0QNwO
 # placeholde
-  placeholder: "Just go go"
+  placeholder: "写下留言时请注意自己的个人信息"
 
 # Show PV/UV of the website/page with busuanzi.
 # Get more information on http://ibruce.info/2015/04/04/busuanzi/
