@@ -14,4 +14,11 @@
 .footer {
     font-size: 14px;
     color: #434343;
+//主页文章边框阴影效果
+.content-wrap {
+    background: rgba(255, 255, 255, 0.8);
+    box-shadow: 0px 0px 13px #dbdbdb;
+    border-bottom-right-radius:64px;
+    border-bottom-left-radius:64px;
+}
 }
