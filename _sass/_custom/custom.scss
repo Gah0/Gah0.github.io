@@ -73,11 +73,17 @@ article {
     font-size: 14px;
     border-radius: 16px;
 }
+
+//下一页按钮黑色化
+.pagination .page-number.current {
+    background: #222;
+}
 //下一页按钮○化
 .page-number-basic, .pagination .prev, .pagination .next, .pagination .page-number, .pagination .space {
     border-radius: 50%;
 	height: 1.45rem;
 }
+
 //选中圆化
 .menu .menu-item a {
     border-radius: 32px;
