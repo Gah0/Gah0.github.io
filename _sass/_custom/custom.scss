@@ -104,3 +104,13 @@ article {
 .local-search-popup {
     border-radius: 32px;
 }
+
+//post分隔符
+.posts-expand .post-eof {
+    display: block;
+    margin: 60px auto 45px;
+    width: 24%;
+    height: 1px;
+    background: #ccc;
+    text-align: center;
+}
